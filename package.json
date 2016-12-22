@@ -1,6 +1,6 @@
 {
   "name": "as-tools",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "tools for smartas framework",
   "keywords": [
     "smartas",
@@ -18,10 +18,6 @@
   "licenses": "MIT",
   "bin": {
     "as-tools": "./bin/as-tools.js"
-  },
-  "scripts": {
-    "publish": "git push origin",
-    "postinstall": "node lib/init.js"
   },
   "dependencies": {
     "lodash":"^4.17.0",
