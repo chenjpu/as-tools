@@ -1,6 +1,6 @@
 {
   "name": "as-tools",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "tools for smartas framework",
   "keywords": [
     "smartas",
@@ -26,6 +26,7 @@
     "gulp-babel": "^6.1.2",
     "gulp-util": "^3.0.0",
     "gulp-add-src": "^0.2.0",
+    "gulp-sequence": "^0.4.0",
     "fs-extra":"^1.0.0",
     "lazypipe": "^1.0.1",
     "slash": "1.0.0",
